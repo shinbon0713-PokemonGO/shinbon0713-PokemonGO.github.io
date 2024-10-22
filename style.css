@@ -1,0 +1,29 @@
+@charset "UTF-8";
+h1 {
+    color: #000000;
+    text-align: center;
+    font-size: 250%;
+}
+
+h2 {
+    color: #903958;
+    border: solid 1px #903958;
+    border-left: solid 15px #903958;
+}
+
+h3 {
+    border-left: solid 5px #903958;
+    color: #903958;
+    padding: 1px 5px;
+    margin-bottom: 1px;
+}
+
+#nav {
+    width: 220px;
+    float: left;
+    background-color: greenyellow;
+}
+
+#main {
+    margin-left: 230px;
+}
